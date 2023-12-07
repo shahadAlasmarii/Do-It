@@ -8,12 +8,12 @@
             android:id="@+id/tasksText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textStyle="italic|normal"
-            android:textColor="@android:color/reed"
+            android:textStyle="italic"
+            android:textColor="@android:color/blue"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="16dp"
             android:layout_marginTop="16dp"
-            android:textSize="50sp"
+            android:textSize="40sp"
             android:text="@string/tasks" />
 
         <androidx.recyclerview.widget.RecyclerView
